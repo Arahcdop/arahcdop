@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+A Full-Stack Developer by day ☼ and a sleeper by night ☾
+Full-Stack Developer at PALO IT Thailand
+
 <!--
 **Arahcdop/arahcdop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
